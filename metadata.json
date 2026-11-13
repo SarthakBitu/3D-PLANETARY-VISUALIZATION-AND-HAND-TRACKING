@@ -1,0 +1,10 @@
+{
+  "name": "Orbital Gesture Earth",
+  "description": "Interactive 3D Earth globe controlled in real time via webcam AI hand gesture recognition, mouse, and touch.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
